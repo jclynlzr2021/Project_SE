@@ -1,0 +1,99 @@
+body{
+  overflow-x: hidden;
+ 
+}
+.navbar-default {
+	border: none;
+	height: 100px;
+}
+.collapse{
+	padding-top: 20px;
+}
+.navbar-brand{
+	padding-top: 40px;
+}
+.tote {
+	margin-left: 100px;
+	margin-top: 30px;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+	height: 400px;
+}
+#myCarousel{
+	margin-top:-18px;
+
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+color:pink;  /*Sets the text hover color on navbar*/
+background-color: transparent;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav >   
+ a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: black; /*BACKGROUND color for active*/
+background-color: transparent;
+}
+.logo {
+	margin-top: -30px;
+}
+.container_a {
+	height: 50px;
+}
+
+
+.nav-tabs > li {
+    float:none;
+    display:inline-block;
+    zoom:1;
+}
+
+.nav-tabs {
+    text-align:center;
+}
+
+#exTab1 .tab-content {
+  
+	margin-top: 50px;
+}
+.carousel-content {
+    color:black;
+    display:flex;
+	text-align: center;
+  
+}
+
+#text-carousel {
+  width: 100%;
+  height: auto;
+  padding: 50px;
+
+}
+
+button {
+	cursor: pointer;
+}
+.container_bag{
+	background-color: black;
+	width: 100%;
+	height: 25px;
+	margin-top: -20px;
+	opacity: 0.2;
+	color: yellow;
+}
+.container_bag ul li {
+	list-style: none;
+	display:inline;
+	padding: 10px;
+}
+.com {
+	width: 300px;
+	height: 100px;
+}
+.comment-box{
+	width: 300px;
+	padding: 20px;
+	border-radius: 4px;
+}
+
+
